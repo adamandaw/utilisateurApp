@@ -1,0 +1,4 @@
+ID;NOM;PRENOM;AGE;
+zj;Ndaw;Adama;18;
+3x;Bah;Mammadou;19;
+nl;Djiby;Eva;39;

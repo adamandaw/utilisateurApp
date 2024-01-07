@@ -1,0 +1,17 @@
+
+
+[
+    {
+        "identifiant" : 1,
+        "nom": "ndaw",
+        "prenom":"adama",
+        "sexe":"M"
+    },
+
+    {
+        "identifiant" : 2,
+        "nom": "morel",
+        "prenom":"isabelle",
+        "sexe":"F"
+    }
+]
